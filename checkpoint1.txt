@@ -1,0 +1,3 @@
+1) What are comments?
+A readable descriptions inside of computer programs detailing what the a Code is doing.
+
